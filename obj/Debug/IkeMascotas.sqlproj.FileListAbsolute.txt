@@ -1,0 +1,6 @@
+C:\Users\mdomi\source\repos\Test\Database1\bin\Debug\IkeMascotas.dacpac
+C:\Users\mdomi\source\repos\Test\Database1\bin\Debug\Database1.dll
+C:\Users\mdomi\source\repos\Test\Database1\bin\Debug\Database1.pdb
+C:\Users\mdomi\source\repos\Test\Database1\obj\Debug\IkeMascotas.sqlprojAssemblyReference.cache
+C:\Users\mdomi\source\repos\Test\Database1\obj\Debug\Database1.dll
+C:\Users\mdomi\source\repos\Test\Database1\obj\Debug\Database1.pdb
